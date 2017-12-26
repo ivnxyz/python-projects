@@ -8,12 +8,13 @@ Puedes usar algún editor de texto como Atom o Sublime Text para escribir tu có
 # Lista de Proyectos
 ##### Los proyectos NO están ordenados por dificultad.
 * [Fizz-Buzz](#fizz-buzz)
-* [Números menores a 10](#numeros-menores-a-10)
+* [Números menores a 10](#números-menores-a-10)
 * [Extremos de una lista](#extremos-de-una-lista)
 * [Lista de elementos compartidos](#lista-de-elementos-compartidos)
-* [Palíndromos](#palindromos)
+* [Palíndromos](#palíndromos)
 * [Divisores](#divisores)
 * [Cifrado](#cifrado)
+* [Bola 8 mágica](#bola-8-mágica)
 
 # Proyectos
 ### Fizz-Buzz
@@ -41,3 +42,12 @@ Puedes usar algún editor de texto como Atom o Sublime Text para escribir tu có
 ### Cifrado
 - Crea dos funciones que reciban un String, una función debe ser para cifrar la frase y la otra debe ser para descifrar la frase que regrese la función de cifrado.
 - Usa diccionarios.
+### Bola 8 mágica
+- Escribe un programa que reciba una pregunta del usuario y devuelva una respuesta aleatoria.
+- Permite que el usuario escriba una pregunta.
+- Muestra un mensaje de progreso (por ejemplo: 'pensando...')
+- Permite que el usuario haga otra pregunta o salga del programa.
+Pista: usa el la función randint(min, max) del módulo random.
+```python
+import random
+```
