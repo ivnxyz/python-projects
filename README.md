@@ -47,6 +47,7 @@ Puedes usar algún editor de texto como Atom o Sublime Text para escribir tu có
 - Permite que el usuario escriba una pregunta.
 - Muestra un mensaje de progreso (por ejemplo: 'pensando...')
 - Permite que el usuario haga otra pregunta o salga del programa.
+
 Pista: usa el la función randint(min, max) del módulo random.
 ```python
 import random
