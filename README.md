@@ -16,35 +16,28 @@ Puedes usar algún editor de texto como Atom o Sublime Text para escribir tu có
 * [Cifrado](#cifrado)
 
 # Proyectos
-### Fiz-Buzz
-Requerimientos:
+### Fizz-Buzz
 - Crea un programa que itere una lista de 100 elementos.
 - Imprime Fizz para los números divisibles entre 3.
 - Imprime Buzz para los números divisibles entre 5.
 - Imprime Fizz-Buzz para los números divisibles entre 5 y 3.
 - No escribas la lista manualmente.
 ### Números menores a 10
-Requerimientos:
 - Crea una función que reciba una lista, itere esa lista y DEVUELVA UNA NUEVA LISTA con los elementos menores a 10 de la lista que recibió como parámetro.
 - Sí, el programa debe estar dentro de una función.
 - Tienes que devolver una lista y NO sólo imprimir los números menores a 10.
 ### Extremos de una lista
-Requerimientos:
 - Crea una función que reciba una lista y devuelva una nueva lista con los elementos en los extremos de esa lista (el primero y el último).
 - Trata de hacerlo en el menor número de líneas posibles.
 ### Lista de elementos compartidos
-Requerimientos:
 - Crea una función que reciba dos listas y devuelva una nueva lista con los elementos que ambas listas tienen en común.
 - Trata de hacer que lost elementos no se repitan.
 ### Palíndromos
-Requerimientos:
 - Crea una función que reciba un String (una frase) y determine si es un palíndromo (una frase que se lee igual al derecho y al revés).
 - Trata de evitar el uso de ciclos for.
 ### Divisores
-Requerimientos:
 - Crea una función que reciba un número y regrese una lista de los divisores de ese número.
 - Itera desde 1 hasta el número.
 ### Cifrado
-Requerimientos:
 - Crea dos funciones que reciban un String, una función debe ser para cifrar la frase y la otra debe ser para descifrar la frase que regrese la función de cifrado.
 - Usa diccionarios.
