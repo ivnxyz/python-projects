@@ -114,6 +114,13 @@ KEYS = {
 ```
 ### Bola 8 mágica
 - Escribe un programa que reciba una pregunta del usuario y devuelva una respuesta aleatoria.
+
+Ejemplo:
+```python
+    Usuario: '¿Seré millonario?'
+    Respuesta del programa: 'Nel :c' #Esta respuesta es aleatoria
+```
+
 - Permite que el usuario escriba una pregunta.
 - Muestra un mensaje de progreso (por ejemplo: 'pensando...')
 - Permite que el usuario haga otra pregunta o salga del programa.
