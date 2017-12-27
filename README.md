@@ -41,7 +41,7 @@ Puedes usar algún editor de texto como Atom o Sublime Text para escribir tu có
 - Permite que el usuario ingrese el comando que quiere ejecutar (descifrar o cifrar).
 - Permite que el usuario ejecute otro comando o salga del programa.
 
-Pista: usa un diccionario para relacinar una letra con otra.
+Pista: usa un diccionario para relacionar una letra con otra.
 ```python
 KEYS = {
     'a': 'w',
